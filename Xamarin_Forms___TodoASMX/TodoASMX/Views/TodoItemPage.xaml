@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+			 x:Class="TodoASMX.TodoItemPage"
+			 Title="Contact Details">
+    <ScrollView>
+        <Grid Margin="10, 10, 10, 10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Text="Name" 
+                   Grid.Row="0"
+                   Grid.Column="0"
+                   VerticalOptions="Center"/>
+            <Entry x:Name="nameEntry" Text="{Binding Path=Name}"
+                   Grid.Row="0"
+                   Grid.Column="1"/>
+            <Label Text="Phone" 
+                   Grid.Row="1"
+                   Grid.Column="0"
+                   VerticalOptions="Center"/>
+            <Entry x:Name="phoneEntry" Text="{Binding Path=Phone}" 
+                   Grid.Row="1"
+                   Grid.Column="1"/>
+            <Label Text="Department" 
+                   Grid.Row="2"
+                   Grid.Column="0"
+                   VerticalOptions="Center"/>
+            <Entry x:Name="departmentEntry" Text="{Binding Path=Department}" 
+                   Grid.Row="2"
+                   Grid.Column="1"/>
+            <Label Text="Street" 
+                   Grid.Row="3"
+                   Grid.Column="0"
+                   VerticalOptions="Center"/>
+            <Entry x:Name="streetEntry" Text="{Binding Path=Street}" 
+                   Grid.Row="3"
+                   Grid.Column="1"/>
+            <Label Text="City" 
+                   Grid.Row="4"
+                   Grid.Column="0"
+                   VerticalOptions="Center"/>
+            <Entry x:Name="cityEntry" Text="{Binding Path=City}" 
+                   Grid.Row="4"
+                   Grid.Column="1"/>
+            <Label Text="State" 
+                   Grid.Row="5"
+                   Grid.Column="0"
+                   VerticalOptions="Center"/>
+            <Entry x:Name="stateEntry" Text="{Binding Path=State}" 
+                   Grid.Row="5"
+                   Grid.Column="1"/>
+            <Label Text="ZIP" 
+                   Grid.Row="6"
+                   Grid.Column="0"
+                   VerticalOptions="Center"/>
+            <Entry x:Name="zipEntry" Text="{Binding Path=ZIP}" 
+                   Grid.Row="6"
+                   Grid.Column="1"/>
+            <Label Text="Country" 
+                   Grid.Row="7"
+                   Grid.Column="0"
+                   VerticalOptions="Center"/>
+            <Entry x:Name="countryEntry" Text="{Binding Path=Country}" 
+                   Grid.Row="7"
+                   Grid.Column="1"/>
+
+            <StackLayout Orientation="Horizontal"
+                         Grid.Row="8"
+                         Grid.Column="0"
+                         Grid.ColumnSpan="2">
+                <Button Text="Save" Clicked="OnSaveActivated" 
+                        HorizontalOptions="FillAndExpand"/>
+                <Button Text="Delete" Clicked="OnDeleteActivated" 
+                        HorizontalOptions="FillAndExpand"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal"
+                         Grid.Row="9"
+                         Grid.Column="0"
+                         Grid.ColumnSpan="2">
+                <Label Text="Theme: " VerticalOptions="Center" />
+                <Picker x:Name="themePicker" Title="Select a theme" HorizontalOptions="Start">
+                    <Picker.ItemsSource>
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>Default</x:String>
+                            <x:String>Purple</x:String>
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+            </StackLayout>
+
+        </Grid>
+    </ScrollView>
+</ContentPage>

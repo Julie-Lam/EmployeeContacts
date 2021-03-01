@@ -1,0 +1,79 @@
+D:\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll.config
+D:\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll
+D:\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.pdb
+D:\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.csproj.CoreCompileInputs.cache
+D:\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.dll
+D:\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.pdb
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX (6)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll.config
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX (6)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX (6)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.pdb
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX (6)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.csproj.CoreCompileInputs.cache
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX (6)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX (6)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.pdb
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll.config
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.pdb
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.csproj.CoreCompileInputs.cache
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.pdb
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll.config
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.pdb
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.csproj.CoreCompileInputs.cache
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.pdb
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll.config
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.pdb
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.csproj.CoreCompileInputs.cache
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.pdb
+C:\Cert IV Programming\Mobile\Week 16 Monday\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll.config
+C:\Cert IV Programming\Mobile\Week 16 Monday\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll
+C:\Cert IV Programming\Mobile\Week 16 Monday\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.pdb
+C:\Cert IV Programming\Mobile\Week 16 Monday\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.csprojAssemblyReference.cache
+C:\Cert IV Programming\Mobile\Week 16 Monday\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.csproj.CoreCompileInputs.cache
+C:\Cert IV Programming\Mobile\Week 16 Monday\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.dll
+C:\Cert IV Programming\Mobile\Week 16 Monday\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll.config
+C:\Cert IV Programming\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.csprojAssemblyReference.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.csproj.CoreCompileInputs.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy - Copy\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll.config
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy - Copy\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy - Copy\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy - Copy\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.csprojAssemblyReference.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy - Copy\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.csproj.CoreCompileInputs.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy - Copy\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy - Copy\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (4)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll.config
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (4)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (4)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (4)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.csprojAssemblyReference.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (4)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.csproj.CoreCompileInputs.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (4)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (4)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (5)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll.config
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (5)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (5)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (5)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.csprojAssemblyReference.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (5)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.csproj.CoreCompileInputs.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (5)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (5)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll.config
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.csprojAssemblyReference.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.csproj.CoreCompileInputs.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll.config
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\bin\TodoASMXService.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.csprojAssemblyReference.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.csproj.CoreCompileInputs.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.pdb

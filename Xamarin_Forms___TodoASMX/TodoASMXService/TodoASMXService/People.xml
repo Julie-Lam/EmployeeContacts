@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TodoItems>
+  <TodoItem ID="1">
+    <!--<ID>6bb8a868-dba1-4f1a-93b7-24ebce87e243</ID>-->
+    <Name>John Smith</Name>
+	<Phone>02 9988 2211</Phone>
+	<Department>1</Department>
+	<Street>1 Code Lane</Street>
+	<City>Javaville</City>
+	<State>NSW</State>
+	<ZIP>0100</ZIP>
+	<Country>Australia</Country>
+    <!--<Address>24 PeakView Street</Address>-->
+
+    <!--<Age>15</Age>-->
+    <!--<AllowedToDrive>No</AllowedToDrive>
+    <Notes>Beware Snow White of the poison Apple</Notes>
+    <Done>true</Done>-->
+  </TodoItem>
+  <TodoItem ID="2">
+    <!--<ID>6b94afb54-a1cb-4313-8af3-b7511551b33b</ID>-->
+	  <Name>Sue White</Name>
+	  <Phone>03 8899 2255</Phone>
+	<Department>2</Department>
+	<Street>16 Bit Way</Street>
+	<City>Byte Cove</City>
+	<State>QLD</State>
+	<ZIP>1101</ZIP>
+	<Country>Australia</Country>
+	  
+    <!--<Address>25 Allan Bond Street</Address>-->
+    <!--<Age>55</Age>-->
+    <!--<AllowedToDrive>Yes</AllowedToDrive>
+    <Notes>Training cadets</Notes>
+    <Done>true</Done>-->
+  </TodoItem>
+  <TodoItem ID="3">
+    <!--<ID>ecfa6f80-3671-4911-aabe-63cc442c1ecf</ID>-->
+	  <Name>Bob O’Bits</Name>
+	  <Phone>05 7788 2255</Phone>
+	  <Department>3</Department>
+	  <Street>8 Silicon Road</Street>
+	  <City>Cloud Hills</City>
+	  <State>VIC</State>
+	  <ZIP>1001</ZIP>
+	  <Country>Australia</Country>
+
+	  <!--<Address>19 Jungle Street</Address>-->
+    <!--<Age>39</Age>-->
+    <!--<AllowedToDrive>Yes</AllowedToDrive>
+    <Notes>Jungle Training</Notes>
+    <Done>false</Done>-->
+  </TodoItem>
+	<TodoItem ID="4">
+		<Name>Mary Blue	</Name>
+		<Phone>06 4455 9988</Phone>
+		<Department>2</Department>
+		<Street>4 Processor Boulevard</Street>
+		<City>Appletson</City>
+		<State>NT</State>
+		<ZIP>1010</ZIP>
+		<Country>Australia</Country>
+	</TodoItem>
+	<TodoItem ID="5">
+		<Name>Mick Green</Name>
+		<Phone>02 9988 1122</Phone>
+		<Department>3</Department>
+		<Street>700 Bandwidth Street</Street>
+		<City>Bufferland</City>
+		<State>NSW</State>
+		<ZIP>0110</ZIP>
+		<Country>Australia</Country>
+	</TodoItem>
+</TodoItems>

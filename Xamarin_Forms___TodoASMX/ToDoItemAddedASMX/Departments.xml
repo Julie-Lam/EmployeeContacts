@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Departments>
+	<Department ID ="0">
+		<Name>General</Name>
+	</Department>
+	<Department ID ="1">
+		<Name>Information Technology</Name>
+	</Department>
+	<Department ID ="2">
+		<Name>Accounting</Name>
+	</Department>
+	<Department ID ="3">
+		<Name>Marketing</Name>
+	</Department>
+	<Department ID ="4">
+		<Name>Human Resources</Name>
+	</Department>
+</Departments>

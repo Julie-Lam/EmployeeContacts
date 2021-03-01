@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TodoASMX.Views.SupportPage"
+             Title="Support Page">
+    <ScrollView>
+        <StackLayout Spacing="20">
+            <Label Text="How to View Contact Details" FontSize="Large" FontAttributes="Bold"/>
+            <Label Text="When initially loading up the application, the default screen is populated with a list of stored contacts. This list contains minimal information, namely the contact ID and full name. "/>
+            <Label Text="To see more information on a stored contact, tap the contact's name. The application will navigate to Contact Details page which details all stored information on the selected contact. "/>
+            <Label Text="To return to the list of stored contacts tap on the Back Arrow in the top navigation bar." />
+
+            <Label Text="How to Add Contact" FontSize="Large" FontAttributes="Bold"/>
+            <Label Text="On the default screen, there is an option to add a new contact by tapping the Plus icon in the top right of the navigation bar. "/>
+            <Label Text="The application will navigate to a Add New Contact page. Enter the information about the new contact in the fields provided, and when ready tap the 'SAVE' button. "/>
+            <Label Text="The newly added contact will now be added to the contact list." />
+
+            <Label Text="How to Edit Contact" FontSize="Large" FontAttributes="Bold"/>
+            <Label Text="When viewing the contact details of a selected contact, you will have the option to edit this contact. "/>
+            <Label Text="On the Contact Details page, tap on a field to enter a value or replace existing information. "/>
+            <Label Text="When ready, tap the 'SAVE' button. This will update the stored contact's details. "/>
+            <Label Text="If the recently edited contact's name was changed, this will be apparent in the contact list." />
+
+            <Label Text="How to Delete Contact" FontSize="Large" FontAttributes="Bold"/>
+            <Label Text="When viewing the contact details of a selected contact, you will have the option to delete this contact. "/>
+            <Label Text="Simply tap the 'DELETE' button. This will delete the stored contact and its' details."/>
+            <Label Text="If the contact is successfully deleted, you will be prompted with a Delete Successful alert. Tap 'OK' once you have finished reading the message and the application will direct you back to the default screen. "/>
+            <Label Text="The recently deleted contact will no longer appear on the contact list.    "/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

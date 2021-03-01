@@ -1,0 +1,157 @@
+D:\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.deps.json
+D:\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.dll
+D:\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.pdb
+D:\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csprojAssemblyReference.cache
+D:\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+D:\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+D:\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csproj.CoreCompileInputs.cache
+D:\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfoInputs.cache
+D:\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfo.cs
+D:\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.dll
+D:\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.pdb
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX (6)\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.deps.json
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX (6)\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX (6)\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.pdb
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX (6)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX (6)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX (6)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfoInputs.cache
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX (6)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfo.cs
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX (6)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csproj.CoreCompileInputs.cache
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX (6)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX (6)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX (6)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.pdb
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.deps.json
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.pdb
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfoInputs.cache
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfo.cs
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csproj.CoreCompileInputs.cache
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Monday\Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.pdb
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.deps.json
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.pdb
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfoInputs.cache
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfo.cs
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csproj.CoreCompileInputs.cache
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.pdb
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.deps.json
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.pdb
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfoInputs.cache
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfo.cs
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csproj.CoreCompileInputs.cache
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\XamlC.stamp
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.pdb
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Themes\Default.xaml.g.cs
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Themes\Pink.xaml.g.cs
+C:\Cert IV Programming\Mobile\Week 16 Monday\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.deps.json
+C:\Cert IV Programming\Mobile\Week 16 Monday\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.dll
+C:\Cert IV Programming\Mobile\Week 16 Monday\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.pdb
+C:\Cert IV Programming\Mobile\Week 16 Monday\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csprojAssemblyReference.cache
+C:\Cert IV Programming\Mobile\Week 16 Monday\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Themes\Default.xaml.g.cs
+C:\Cert IV Programming\Mobile\Week 16 Monday\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Themes\Pink.xaml.g.cs
+C:\Cert IV Programming\Mobile\Week 16 Monday\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Cert IV Programming\Mobile\Week 16 Monday\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Cert IV Programming\Mobile\Week 16 Monday\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfoInputs.cache
+C:\Cert IV Programming\Mobile\Week 16 Monday\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfo.cs
+C:\Cert IV Programming\Mobile\Week 16 Monday\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csproj.CoreCompileInputs.cache
+C:\Cert IV Programming\Mobile\Week 16 Monday\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Cert IV Programming\Mobile\Week 16 Monday\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.dll
+C:\Cert IV Programming\Mobile\Week 16 Monday\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.deps.json
+C:\Cert IV Programming\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csprojAssemblyReference.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Themes\Default.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Themes\Pink.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfoInputs.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfo.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csproj.CoreCompileInputs.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Cert IV Programming\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.deps.json
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csprojAssemblyReference.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Themes\Default.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Themes\Pink.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfoInputs.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfo.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csproj.CoreCompileInputs.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy - Copy\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.deps.json
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy - Copy\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy - Copy\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy - Copy\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csprojAssemblyReference.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy - Copy\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Themes\Default.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy - Copy\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Themes\Pink.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy - Copy\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy - Copy\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy - Copy\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfoInputs.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy - Copy\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfo.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy - Copy\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csproj.CoreCompileInputs.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy - Copy\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy - Copy\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd - Copy - Copy\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (4)\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.deps.json
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (4)\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (4)\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (4)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csprojAssemblyReference.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (4)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Themes\Default.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (4)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Themes\Pink.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (4)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (4)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (4)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfoInputs.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (4)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfo.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (4)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csproj.CoreCompileInputs.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (4)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (4)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (4)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (5)\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.deps.json
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (5)\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (5)\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (5)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csprojAssemblyReference.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (5)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Themes\Default.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (5)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Themes\Pink.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (5)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (5)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (5)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfoInputs.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (5)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfo.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (5)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csproj.CoreCompileInputs.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (5)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (5)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (5)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.deps.json
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csprojAssemblyReference.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Themes\Default.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfoInputs.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfo.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csproj.CoreCompileInputs.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Themes\Purple.xaml.g.cs
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\SupportPage.xaml.g.cs

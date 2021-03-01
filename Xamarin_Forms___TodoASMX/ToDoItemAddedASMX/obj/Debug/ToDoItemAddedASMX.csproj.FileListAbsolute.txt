@@ -1,0 +1,294 @@
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\ToDoItemAddedASMX.dll.config
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\ToDoItemAddedASMX.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\ToDoItemAddedASMX.pdb
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csc.exe
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csc.exe.config
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csc.rsp
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csi.exe
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csi.exe.config
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csi.rsp
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.AppContext.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Collections.Immutable.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Console.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Globalization.Calendars.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.IO.Compression.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.IO.FileSystem.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Net.Http.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Net.Sockets.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Reflection.Metadata.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.ValueTuple.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Xml.XPath.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\vbc.exe
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\vbc.exe.config
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\vbc.rsp
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\VBCSCompiler.exe
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\VBCSCompiler.exe.config
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Antlr3.Runtime.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\AspNet.ScriptManager.jQuery.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.Web.Infrastructure.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Newtonsoft.Json.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\System.Web.Optimization.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\WebGrease.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\System.Web.Optimization.xml
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Newtonsoft.Json.xml
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Antlr3.Runtime.pdb
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\obj\Debug\ToDoItemAddedASMX.csproj.CoreCompileInputs.cache
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\obj\Debug\ToDoItemAddedASMX.csproj.CopyComplete
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\obj\Debug\ToDoItemAddedASMX.dll
+E:\Cert 4 Sem 2 2020\Mobile\Week 14 Thurs\Best Xamarin_Forms___TodoASMX Updated X\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\obj\Debug\ToDoItemAddedASMX.pdb
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\ToDoItemAddedASMX.dll.config
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\ToDoItemAddedASMX.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\ToDoItemAddedASMX.pdb
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csc.exe
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csc.exe.config
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csc.rsp
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csi.exe
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csi.exe.config
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csi.rsp
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.AppContext.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Collections.Immutable.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Console.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Globalization.Calendars.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.IO.Compression.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.IO.FileSystem.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Net.Http.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Net.Sockets.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Reflection.Metadata.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.ValueTuple.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Xml.XPath.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\vbc.exe
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\vbc.exe.config
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\vbc.rsp
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\VBCSCompiler.exe
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\VBCSCompiler.exe.config
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Antlr3.Runtime.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\AspNet.ScriptManager.bootstrap.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\AspNet.ScriptManager.jQuery.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.ScriptManager.WebForms.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.Web.Infrastructure.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Newtonsoft.Json.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\System.Web.Optimization.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\WebGrease.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\System.Web.Optimization.xml
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Newtonsoft.Json.xml
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Antlr3.Runtime.pdb
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\obj\Debug\ToDoItemAddedASMX.csproj.CoreCompileInputs.cache
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\obj\Debug\ToDoItemAddedASMX.csproj.CopyComplete
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\obj\Debug\ToDoItemAddedASMX.dll
+E:\MobileProjAss\Xamarin_With_WebServices\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\obj\Debug\ToDoItemAddedASMX.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\ToDoItemAddedASMX.dll.config
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\ToDoItemAddedASMX.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\ToDoItemAddedASMX.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csc.exe
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csc.exe.config
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csc.rsp
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csi.exe
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csi.exe.config
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csi.rsp
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.AppContext.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Collections.Immutable.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Console.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Globalization.Calendars.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.IO.Compression.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.IO.FileSystem.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Net.Http.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Net.Sockets.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Reflection.Metadata.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.ValueTuple.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Xml.XPath.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\vbc.exe
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\vbc.exe.config
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\vbc.rsp
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\VBCSCompiler.exe
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\VBCSCompiler.exe.config
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Antlr3.Runtime.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\AspNet.ScriptManager.jQuery.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.Web.Infrastructure.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Newtonsoft.Json.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\System.Web.Optimization.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\WebGrease.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\System.Web.Optimization.xml
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Newtonsoft.Json.xml
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Antlr3.Runtime.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\obj\Debug\ToDoItemAddedASMX.csprojAssemblyReference.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\obj\Debug\ToDoItemAddedASMX.csproj.CoreCompileInputs.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\obj\Debug\ToDoItemAddedASMX.csproj.CopyComplete
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\obj\Debug\ToDoItemAddedASMX.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (6)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\obj\Debug\ToDoItemAddedASMX.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\ToDoItemAddedASMX.dll.config
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\ToDoItemAddedASMX.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\ToDoItemAddedASMX.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csc.exe
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csc.exe.config
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csc.rsp
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csi.exe
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csi.exe.config
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\csi.rsp
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.AppContext.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Collections.Immutable.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Console.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Globalization.Calendars.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.IO.Compression.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.IO.FileSystem.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Net.Http.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Net.Sockets.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Reflection.Metadata.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.ValueTuple.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Xml.XPath.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\vbc.exe
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\vbc.exe.config
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\vbc.rsp
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\VBCSCompiler.exe
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\roslyn\VBCSCompiler.exe.config
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Antlr3.Runtime.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\AspNet.ScriptManager.jQuery.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.Web.Infrastructure.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Newtonsoft.Json.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\System.Web.Optimization.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\WebGrease.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\System.Web.Optimization.xml
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Newtonsoft.Json.xml
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Antlr3.Runtime.pdb
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\obj\Debug\ToDoItemAddedASMX.csprojAssemblyReference.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\obj\Debug\ToDoItemAddedASMX.csproj.CoreCompileInputs.cache
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\obj\Debug\ToDoItemAddedASMX.csproj.CopyComplete
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\obj\Debug\ToDoItemAddedASMX.dll
+C:\Cert IV Programming\Xamarin_With_Theme_2nd (7)\Xamarin_Forms___TodoASMX\ToDoItemAddedASMX\obj\Debug\ToDoItemAddedASMX.pdb

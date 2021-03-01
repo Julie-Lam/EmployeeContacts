@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "avCH+E+U+LCPvr7QWZjOXFBj4vFVbi7nJB9mcQ+lZ0Iu0vtIvFG6Fj3qdUacs6jcNL0F85lvuWpJlTVIThbJ1Q==",
+  "success": true,
+  "projectFilePath": "D:\\Xamarin_Forms___TodoASMX\\iOS\\TodoASMX.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shubh\\.nuget\\packages\\xamarin.forms\\4.6.0.726\\xamarin.forms.4.6.0.726.nupkg.sha512",
+    "C:\\Users\\shubh\\.nuget\\packages\\xamarin.testcloud.agent\\0.17.1\\xamarin.testcloud.agent.0.17.1.nupkg.sha512"
+  ],
+  "logs": []
+}

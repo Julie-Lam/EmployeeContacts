@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="TodoASMX.TodoListPage" 
+             Title="Contacts">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="+" Clicked="OnAddItemClicked">
+            <ToolbarItem.IconImageSource>
+                <OnPlatform x:TypeArguments="ImageSource">
+                    <On Platform="Android, UWP" Value="plus.png" />
+                </OnPlatform>
+            </ToolbarItem.IconImageSource>
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
+    <StackLayout>
+    <ListView x:Name="listView" ItemSelected="OnItemSelected">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Padding="20,0,0,0" HorizontalOptions="StartAndExpand" Orientation="Horizontal">
+                        <Label Text="{Binding ID}" VerticalTextAlignment="Center"/>
+                        <Label Text="{Binding Name}" VerticalTextAlignment="Center"/>
+                        <!--<Label Text="{Binding Address}" VerticalTextAlignment="Center" Padding="10,0,0,0"/>-->
+                        <!--<Label Text="{Binding Age}" VerticalTextAlignment="Center" Padding="10,0,0,0"/>
+                        <Image Source="check.png" IsVisible="{Binding Done}" />-->
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+     <ImageButton Source="questionSmall.png" HorizontalOptions="End" Margin="20"
+                  Clicked="ImageButton_Clicked"/>
+    </StackLayout>
+</ContentPage>
