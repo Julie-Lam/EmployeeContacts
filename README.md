@@ -15,7 +15,7 @@ Please follow the steps below before attempting to launch the mobile app. You mu
 
 3. Start the Android App located in TodoASMX.Droid project.
 
-#How To Add A New Employee Contact
+# How To Add A New Employee Contact
 1. On start-up, the app displays the Contacts page. Tap the '+' sign in the top right corner. 
 
 2. The app navigates to a new page displaying the employee's details. Enter values into the appropriate fields. 
